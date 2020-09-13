@@ -1,0 +1,9 @@
+Pictures/banner.png
+Pictures/darkblue.png
+Pictures/green.png
+Pictures/lightblue.png
+Pictures/orange.png
+Pictures/purple.png
+Pictures/red.png
+Pictures/yellow.png
+Pictures/empty.png
